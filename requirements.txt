@@ -1,0 +1,7 @@
+streamlit
+statsmodels
+pandas
+joblib
+pydantic-settings
+streamlit_pandas_profiling
+pandas_profiling
